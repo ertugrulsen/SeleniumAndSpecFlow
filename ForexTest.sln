@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForexTest", "ForexTest\ForexTest.csproj", "{0AAF66D4-7A4A-43BE-AD47-B18B740C01BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0AAF66D4-7A4A-43BE-AD47-B18B740C01BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AAF66D4-7A4A-43BE-AD47-B18B740C01BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AAF66D4-7A4A-43BE-AD47-B18B740C01BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AAF66D4-7A4A-43BE-AD47-B18B740C01BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6656B37C-15DE-436A-A948-0E2A494F0A88}
+	EndGlobalSection
+EndGlobal
